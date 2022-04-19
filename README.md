@@ -1,6 +1,5 @@
 ### Hi there 👋, I'm Harsh Raj
 
-<!--
 Here are some facts about me
 
 - 🔭 I’m currently working on C++, data structures, alorithms & python.
@@ -11,4 +10,3 @@ Here are some facts about me
 - 📫 How to reach me: instagram.com/harshxvr/
 - 😄 Pronouns: his/him
 - ⚡ Fun fact: I can stop my breath for 150 seconds.
--->
