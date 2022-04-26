@@ -9,4 +9,4 @@ Here are some facts about me
 - 💬 Ask me about any tech related stuff.
 - 📫 How to reach me: https://www.linkedin.com/in/harsh-raj-3739b5204/ & https://instagram.com/harshxvr/
 - 😄 Pronouns: his/him
-- ⚡ Fun fact: I can stop my breath for 150 seconds.
+- ⚡ Fun fact: I can stop my breath for 2 minutese & 40 seconds.
